@@ -5,7 +5,7 @@
   "keywords": [],
   "author": "matthew mueller <mattmuelle@gmail.com>",
   "dependencies": {
-    "pwd" : "*"
+    "pwd": "git://github.com/jlubawy/node-pwd"
   },
   "devDependencies": {
     "mocha": "*",
